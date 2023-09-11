@@ -1,0 +1,9 @@
+$main-header-color: lightcoral;
+
+header {
+    a {
+        &.navbar-brand {
+            color: $main-header-color;
+        }
+    }
+}
